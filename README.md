@@ -1,0 +1,3 @@
+# marvinkkk.github.io
+RPC based on Spring,Netty,ZooKeeper
+基于Netty实现高性能网络通信，解决短连接问题，实现长连接，解决同步阻塞调用的性能瓶颈，实现异步调用，支持心跳监测机制，解决Java原生序列化性能瓶颈，实现基于JSON的序列化，基于动态代理进行请求的处理，解决进程通信问题，解决TCP/IP拆包粘包问题，利用BeanPostProcessor机制和ApplicationListener机制实现客户端的自启动与基于注解的服务调用，基于ZooKeeper实现服务注册中心，提供客户端服务发现功能以及服务节点监听以及动态管理功能，实现基于注解的零配置框架。
